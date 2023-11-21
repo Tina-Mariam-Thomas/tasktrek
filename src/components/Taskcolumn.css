@@ -1,0 +1,9 @@
+.Taskcolumn-image {
+  height: 30px;
+}
+.task-column-heading {
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+}

@@ -1,0 +1,18 @@
+.App {
+  /*this is the parent component */
+  display: grid;
+  grid-template-rows: 150px auto; /*150 px for header and auto for main*/
+}
+.app_main {
+  /* this is the main  */
+  display: flex;
+  justify-content: space-evenly;
+
+  padding: 20px 8%;
+}
+/* for each section */
+.task_coloumn {
+  width: 33.33%;
+
+  margin: 20px;
+}
