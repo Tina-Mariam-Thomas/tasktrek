@@ -109,6 +109,5 @@ export const Taskform = ({ setTasks, tasks }) => {
         </div>
       </form>
     </header>
-    //comment
   );
 };
